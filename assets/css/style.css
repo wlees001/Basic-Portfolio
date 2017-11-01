@@ -1,0 +1,21 @@
+header {
+	font-family: Georgia;
+	background-color: #ffffff;
+	color: black;
+}
+.YourName {
+	background: #4aaaa5;
+	color: white;
+	width: 20%;
+	text-align:center;
+	font-size: 40px;
+
+}
+.buttons {
+	background: ;
+}
+}
+body {
+	width: 100%;
+	max-width: 960px;
+}
